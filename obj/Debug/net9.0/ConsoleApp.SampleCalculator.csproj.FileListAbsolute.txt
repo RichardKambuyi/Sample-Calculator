@@ -1,0 +1,15 @@
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\obj\Debug\net9.0\ConsoleApp.SampleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\obj\Debug\net9.0\ConsoleApp.SampleCalculator.AssemblyInfoInputs.cache
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\obj\Debug\net9.0\ConsoleApp.SampleCalculator.AssemblyInfo.cs
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\obj\Debug\net9.0\ConsoleApp.SampleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\obj\Debug\net9.0\ConsoleApp.SampleCalculator.sourcelink.json
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\bin\Debug\net9.0\ConsoleApp.SampleCalculator.exe
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\bin\Debug\net9.0\ConsoleApp.SampleCalculator.deps.json
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\bin\Debug\net9.0\ConsoleApp.SampleCalculator.runtimeconfig.json
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\bin\Debug\net9.0\ConsoleApp.SampleCalculator.dll
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\bin\Debug\net9.0\ConsoleApp.SampleCalculator.pdb
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\obj\Debug\net9.0\ConsoleApp.SampleCalculator.dll
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\obj\Debug\net9.0\refint\ConsoleApp.SampleCalculator.dll
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\obj\Debug\net9.0\ConsoleApp.SampleCalculator.pdb
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\obj\Debug\net9.0\ConsoleApp.SampleCalculator.genruntimeconfig.cache
+C:\Users\admin\Web Dev\ConsoleApp.SampleCalculator\obj\Debug\net9.0\ref\ConsoleApp.SampleCalculator.dll
